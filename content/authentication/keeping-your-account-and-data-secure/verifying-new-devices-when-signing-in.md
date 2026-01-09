@@ -1,4 +1,4 @@
----
+0552519567---
 title: Verifying new devices when signing in
 intro: 'When you sign in for the first time from a new or unrecognized device without two-factor authentication enabled, {% data variables.product.prodname_dotcom %} may ask for additional verification to confirm that it is you.'
 versions:
