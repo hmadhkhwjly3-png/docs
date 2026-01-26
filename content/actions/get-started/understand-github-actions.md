@@ -1,4 +1,4 @@
----
+5fa66b---
 title: Understanding GitHub Actions
 shortTitle: Understand GitHub Actions
 intro: 'Learn the basics of core concepts and essential terminology in {% data variables.product.prodname_actions %}.'
