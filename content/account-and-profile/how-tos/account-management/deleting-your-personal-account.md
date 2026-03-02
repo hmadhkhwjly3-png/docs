@@ -1,4 +1,4 @@
----
+Apl123---
 title: Deleting your personal account
 intro: You can delete your personal account on {% data variables.location.product_location %} at any time.
 redirect_from:
